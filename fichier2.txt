@@ -1,2 +1,3 @@
 fic2 ligne1
 fic2 ligne 2
+ligne 3
